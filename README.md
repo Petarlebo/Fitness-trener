@@ -11,4 +11,4 @@ MySql,
 Redis,
 Docker,
 
-![ERD](fittrener.jpng)
+![ERD](Fittnes trener.jpng)
