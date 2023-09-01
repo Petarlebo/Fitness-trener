@@ -11,4 +11,4 @@ MySql,
 Redis,
 Docker,
 
-![ERD](fittnestrener.jpng)
+![ERD](fittnestrener.jpg)
